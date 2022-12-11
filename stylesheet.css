@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(top.png);
+  background-image: url(IMG_20221204_212702_2.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -45,8 +45,8 @@ a {
   margin-bottom: 20px;
 }
 
-.signup {
-  background-color: #239b76;
+.github {
+  background-color: gray;
 }
 
 .facebook {
@@ -78,15 +78,15 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34,49,52,0.9);
+  background-color: rgba(10,10,10,0.8);
   position :fixed;
   top: 0;
   z-index: 10;
 }
 
 .logo {
-  width: 124px;
-  margin-top: 20px;
+  width: 54px;
+  margin-top: 5px;
 }
 
 .header-left {
@@ -109,6 +109,12 @@ header {
 
 .header-right a:hover {
   background-color: rgba(255,255,255,0.3);
+}
+
+.profile-wrapper {
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
 }
 
 .lesson-wrapper {
@@ -151,7 +157,7 @@ header {
   display: inline-block;
   margin-top: 15px;
   font-size: 13px;
-  color: #b3aeb5;
+  color: #5f5d60;
 }
 
 .heading h3 {
@@ -187,8 +193,9 @@ footer p {
 }
 
 footer {
-  padding-top: 30px;
-  padding-bottom: 20px;
+  background-color: rgba(11,11,11,0.8);
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .menu-icon {
