@@ -117,12 +117,26 @@ header {
   text-align: center;
 }
 
-.lesson-wrapper {
+.left {
+  text-align: left;
+  padding-left: 15%;
+}
+
+.webapp-wrapper {
   height: 580px;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
   background-color: #f7f7f7;
+  text-align: center;
+}
+
+.scraping-wrapper {
+  height: 580px;
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: white;
   text-align: center;
 }
 
@@ -216,7 +230,7 @@ footer {
     margin-bottom: 50px;
   }
 
-  .lesson-wrapper {
+  .webapp-wrapper {
     height: 990px;
   }
 
@@ -268,7 +282,7 @@ footer {
     width: 100%;
   }
 
-  .lesson-wrapper {
+  .webapp-wrapper {
     height: 1700px;
   }
 
